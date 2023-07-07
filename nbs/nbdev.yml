@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_test"
+  site-url: "https://yuhamba.github.io/nbdev_test"
+  description: "A sample of how to handle nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/yuhamba/nbdev_test"
